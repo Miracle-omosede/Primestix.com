@@ -37,7 +37,7 @@ const Founder = () => {
                 <div className="text-white">
                   <h1 className="text-4xl font-semibold">About PRIMESTIX</h1>
                   <p className="capitalize text-2xl italic">
-                    Founder's message
+                    Founder&apos;s message
                   </p>
                 </div>
               </div>

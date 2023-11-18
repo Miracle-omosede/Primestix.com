@@ -88,7 +88,7 @@ function MobileView({ open, setOpen }) {
                         href="/founder"
                         className="link-item"
                       >
-                        Founder's Message
+                        Founder&apos;s Message
                       </Link>
                     </li>
                     <li>

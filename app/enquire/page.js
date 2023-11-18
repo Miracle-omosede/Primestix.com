@@ -11,7 +11,7 @@ import axios from "axios";
 import { yupResolver } from "@hookform/resolvers/yup";
 import * as yup from "yup";
 
-const enquire = () => {
+const Enquire = () => {
     const [isLoading, setIsLoading] = useState(false);
 
   const schema = yup.object({
@@ -161,4 +161,4 @@ const enquire = () => {
   );
 };
 
-export default enquire;
+export default Enquire;

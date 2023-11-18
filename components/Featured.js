@@ -19,7 +19,7 @@ const Featured = () => {
         </h1>
         <h2 className="text-center text-white z-[999] font- md:text-xl text-sm leading-6 font-raleway">
           DAMAC Properties is part of DAMAC Group that has been shaping the
-          Middle East's luxury real estate market since 1982, delivering iconic
+          Middle East&apos;s luxury real estate market since 1982, delivering iconic
           residential, commercial and leisure properties for sale across the
           region and beyond.
         </h2>

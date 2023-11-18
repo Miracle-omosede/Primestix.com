@@ -97,7 +97,7 @@ const About = () => {
             <div className="md:col-span-6 col-span-12 text-black">
               <div>
                 <h1 className="capitalize font-bold text-4xl">
-                  Founder's Message
+                Founder &apos;s Message
                 </h1>
 
                 <p className="mt-10 mb-5 text-xl relative">

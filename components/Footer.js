@@ -116,7 +116,7 @@ const Footer = () => {
               <div className="col-span-12 md:col-span-4 flex flex-col gap-2">
                 <h1 className="heading">Communities</h1>
                 {communities?.map((community) => (
-                  <Link href={`/community/${community?._id}`} key={community?._id} href="/projects">
+                  <Link href={`/community/${community?._id}`} key={community?._id}>
                     {community?.name}
                   </Link>
                 ))}
@@ -152,7 +152,7 @@ const Footer = () => {
               news letter
             </p>
             <div className="relative">
-              <div class="border rounded overflow-hidden  flex">
+              <div className="border rounded overflow-hidden  flex">
                 <input
                   type="text"
                   className="px-4 py-2 text-black"
